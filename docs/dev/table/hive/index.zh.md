@@ -22,7 +22,7 @@ software distributed under the License is distributed on an
 KIND, either express or implied.  See the License for the
 specific language governing permissions and limitations
 under the License.
--->
+-->aaaaa
 
 [Apache Hive](https://hive.apache.org/) has established itself as a focal point of the data warehousing ecosystem.
 It serves as not only a SQL engine for big data analytics and ETL, but also a data management platform, where data is discovered, defined, and evolved.
